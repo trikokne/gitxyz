@@ -16,6 +16,11 @@ public class example1_priority1
 	{
 		Reporter.log("running TC2....",true);
 	}
+	@Test
+	public void m25()
+	{
+		Reporter.log("runnint TC25",true);
+	}
 	
 	
 
